@@ -1,5 +1,5 @@
 
-# Movies Management API
+# Movie Store API
 
 This project is a RESTful API built with NestJS and PostgreSQL with TypeORM for managing a collection of movies. It includes features for creating, retrieving, updating, and deleting movies, with JWT-based authentication for secure access.
 
