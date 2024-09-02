@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/airtribe-projects/movie-management-api-AnmolPdy.git
+   git clone https://github.com/anmolpandey299/CodeIn_task.git
    
 
 2. **Install dependencies:**
