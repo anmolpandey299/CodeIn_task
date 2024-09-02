@@ -20,7 +20,6 @@ The Movies API allows you to manage a collection of movies through a simple REST
 ## Features
 
 - JWT Authentication
-- Pagination and filtering for movie listings
 - CRUD operations for movies
 - Error handling for common issues
 
