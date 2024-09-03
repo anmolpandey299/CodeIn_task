@@ -1,5 +1,5 @@
 
-# Movies Management API
+# Movie Store API
 
 This project is a RESTful API built with NestJS and PostgreSQL with TypeORM for managing a collection of movies. It includes features for creating, retrieving, updating, and deleting movies, with JWT-based authentication for secure access.
 
@@ -20,7 +20,6 @@ The Movies API allows you to manage a collection of movies through a simple REST
 ## Features
 
 - JWT Authentication
-- Pagination and filtering for movie listings
 - CRUD operations for movies
 - Error handling for common issues
 
@@ -37,7 +36,7 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/airtribe-projects/movie-management-api-AnmolPdy.git
+   git clone https://github.com/anmolpandey299/CodeIn_task.git
    
 
 2. **Install dependencies:**
